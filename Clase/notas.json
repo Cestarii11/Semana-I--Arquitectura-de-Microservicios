@@ -1,0 +1,11 @@
+{
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "notas": {
+        "matemáticas": 85,
+        "historia": 90,
+        "ciencias": 78,
+        "literatura": 88
+    }
+
+}
