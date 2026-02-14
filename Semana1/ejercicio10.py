@@ -20,3 +20,4 @@ while cont < 5:
         print(f"{numero} no es un número perfecto.")
         
     cont += 1
+
